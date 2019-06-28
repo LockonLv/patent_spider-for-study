@@ -1,0 +1,1 @@
+pyuic5 -o patent_download.py patent_download.ui
